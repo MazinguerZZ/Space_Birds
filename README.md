@@ -28,9 +28,10 @@ El objetivo es sobrevivir el mayor tiempo posible mientras derribas cerdos que c
 - **Disparar:** `ESPACIO` o `Clic derecho del ratón`
 - **Salir:** `ESC`
 
-### Android (En desarrollo)
+### Android
 
 - **Movimiento:** Arrastra el dedo por la pantalla para mover al personaje.
+- **Disparo:** (En desarrollo)
 
 ## Cómo ejecutarlo
 
