@@ -1,5 +1,4 @@
 # Space Birds
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/MazinguerZZ/Space_Birds)
 
 Space Birds es un juego arcade 2D desarrollado con el framework libGDX. Este proyecto transforma un clásico juego de disparos espaciales en una experiencia divertida y temática inspirada en Angry Birds. En lugar de pilotar una nave espacial, controlas al icónico pájaro Rojo, con la misión de derribar a los molestos cerdos que caen del cielo.
 
